@@ -10,7 +10,7 @@ Try out different feature importance finding methods
 ``` bash
 pandas                    0.25.2           py37he6710b0_0  
 pyarrow                   0.13.0           py37he6710b0_0 
-
+seaborn                   0.9.0                    py37_0 
 ```
 
 
