@@ -1,6 +1,12 @@
 # US Flight Delay
 
-The objective of this repo is to present data munging in details.
+## Objective
+
+Demonstrate data munging through the following actions.
+
+:one: Distribution assessment by checking and eliminating samples with Not a Number (NaN) fields  
+:two: Outlier elimination via Tukey Fences and Z-Scores  
+:three: Categorical value transformation and encoding
 
 ## Installation
 ``` bash
